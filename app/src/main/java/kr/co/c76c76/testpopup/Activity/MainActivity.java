@@ -62,7 +62,7 @@ public class MainActivity extends BaseActivity {
                 break;
 
             case R.id.btn10:
-                m_dialogSupport.showToast("Toast show");
+                m_dialogSupport.showToast("Toast Change 04:15");
                 break;
 
             case R.id.btn11:
